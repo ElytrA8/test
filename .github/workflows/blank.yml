@@ -25,6 +25,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        uses: CarbonatedBlack/Windows-RDP-Actions@production
+        uses: CarbonatedBlack/Windows-RDP-Actions@beta
         env:
           NGROK_TOKEN: "7hgfgjjgfgygyutrhjkvc"
